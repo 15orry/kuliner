@@ -329,7 +329,7 @@ a{text-decoration: none;}
     width: 1160px;
     margin: 0 auto;
     padding: 0 10px;
-    background-color: #efe;
+    /* background-color: #efe; */
 }
 #dishes .wrap .title_part{text-align: center; color: #555; padding-bottom: 80px;}
 #dishes .wrap .title_part h3{padding: 20px 0; font-size: 54px; line-height: 72px; /*background-color: #eea;*/}
